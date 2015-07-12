@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-
 namespace firstMVC.Controllers
+
 {
     public class HomeController : Controller
     {
@@ -26,5 +26,12 @@ namespace firstMVC.Controllers
 
             return View();
         }
+
+        public ActionResult Basic()
+        {
+            return View();
+        }
+       
+      
     }
 }
