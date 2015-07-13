@@ -24,3 +24,7 @@ C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\bin\Newtonsoft.Json.xml
 C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\obj\Debug\firstMVC.csprojResolveAssemblyReference.cache
 C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\obj\Debug\firstMVC.dll
 C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\obj\Debug\firstMVC.pdb
+C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\bin\EntityFramework.dll
+C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\bin\EntityFramework.xml
+C:\Users\Lucas\Desktop\MVCTUT\firstMVC\firstMVC\bin\EntityFramework.SqlServer.xml
