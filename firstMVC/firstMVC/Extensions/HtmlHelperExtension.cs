@@ -13,7 +13,7 @@ public static class HtmlHelperExtensions
             ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
             Formatting = Formatting.Indented
         };
-
+        
         return new HtmlString(JsonConvert.SerializeObject(model, settings));
     }
 
