@@ -22,7 +22,7 @@ namespace firstMVC.Controllers
         {
             var authors = db.Authors.OrderBy(queryOptions.Sort);
             ViewBag.QueryOptions = queryOptions;
-            return View(db.Authors.ToList());
+            return View(authors.ToList());
         }
 
         // GET: Authors/Details/5
